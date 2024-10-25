@@ -1,2 +1,3 @@
 this is recipe website
-just by ingredients recipes can be search 
+
+just by entering  ingredients recipes can be search 
